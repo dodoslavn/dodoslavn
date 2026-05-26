@@ -1,1 +1,1 @@
-I like creating stuff which make life easier - automation, tools, monitoring
+I like creating stuff which makes life easier - automation, tools, monitoring
